@@ -1,3 +1,5 @@
+<img src="./getPost.png" alt="getPost" height="400"/>
+
 This repository contains the solution to the assignment below.
 # Assignment 3 - Books
 
